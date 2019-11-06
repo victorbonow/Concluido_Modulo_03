@@ -1,5 +1,5 @@
 # Código concluído do Módulo 03
-Rockeseat GoStack Bootcamp - Node.js Backend
+Rockeseat GoStack Bootcamp - Node.js Back-end
 
 Origin --> Multer, avatar do usuário, listagem de prestadores de serviço, migration e model de agendamento.
 
